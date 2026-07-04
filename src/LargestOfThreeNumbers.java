@@ -7,7 +7,6 @@ public class LargestOfThreeNumbers {
 
 
         Scanner input = new Scanner(System.in);
-
         System.out.println("Enter first number");
         int a = input.nextInt();
 
