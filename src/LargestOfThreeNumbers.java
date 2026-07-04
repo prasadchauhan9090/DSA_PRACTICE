@@ -35,7 +35,7 @@ public class LargestOfThreeNumbers {
 
        int  largestinallthree = largest>c?largest:c;
 
-       System.out.println("The largest number is: "+ largestinallthree);
+       System.out.println("The largest number is : "+ largestinallthree);
 
 
     }
