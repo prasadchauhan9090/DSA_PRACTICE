@@ -4,7 +4,7 @@ public class PracticeOfTheDSA {
     public static void main(String args[])
     {
 
-        String st="SHS";
+        String st="KPRASAD";
 
         String original_string=st;
 
