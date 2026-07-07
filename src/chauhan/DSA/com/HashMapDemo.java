@@ -26,10 +26,9 @@ public class HashMapDemo {
         }
         for(int mapp:map.keySet())
         {
-            System.out.println(mapp+"-->"+map.get(mapp));
+            System.out.println(mapp+"--->"+map.get(mapp));
 
         }
-
 
 
     }
