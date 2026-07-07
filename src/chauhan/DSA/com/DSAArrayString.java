@@ -25,9 +25,10 @@ public class DSAArrayString {
                 map.put(key,1);
             }
         }
-        for(String mapp:map.keySet())
+        for(String key:map.keySet())
         {
-            System.out.println(mapp+"--->"+map.get(mapp));
+
+            System.out.println(key+"--->"+map.get(key));
 
         }
 
